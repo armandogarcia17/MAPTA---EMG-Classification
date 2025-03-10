@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=armandogarcia17/MAPTA---EMG-Classification)
+
 # Introduction to Machine Learning using Bio Signals
 
 Are you new to Machine and Deep Learning and want to learn how to apply these techniques in your work? Machine learning is a data analytics technique that teaches computers to do what comes naturally to humans and animals: learn from experience. Machine learning algorithms use computational methods to learn information directly from data without relying on a predetermined equation as a model.  MATLAB provides an environment that allows you to apply advanced ML and DL techniques without requiring extensive coding or machine learning experience.
